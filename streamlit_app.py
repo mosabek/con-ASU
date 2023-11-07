@@ -51,7 +51,7 @@ st.write('# A showcase for CON3 detector , to detect Excavators , Wheel Loaders 
 
 st.write('This project was done under the guidance and support of Dr.Kristen Parrish , Dr.Thomas Czerniawski and Dr. Steven K. Ayer ')
 
-st.write('This project was programmed byTeam members: Mohamed Sabek ,Janarthanan K , Karthick Venkatesh T C, Pranav khurana and Pratheesh kumar J as a showcase for CON3 model detector ')
+st.write('This project was programmed by Mohamed sabek ,Janarthanan K , Karthick Venkatesh T C, Pranav khurana and Pratheesh kumar Jas a showcase for CON3 model detector ')
 
 
 
